@@ -1,0 +1,5075 @@
+<scenes version="1.0">
+	<Diadrasis>
+		<points>
+			<point status="on">
+				<name>grigoris</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Grigoris</gr>
+					<en>Grigoris</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ναός Πατρώου Απόλλωνα</gr>
+						<en>Patroos Apollo Temple</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>polytexneio</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Polytexneio</gr>
+					<en>Polytexneio</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Polytexneio</gr>
+						<en>Polytexneio</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>coffeIsland</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Coffee Island</gr>
+					<en>Coffee Island</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Βασίλειος Στοά</gr>
+						<en>Royal Stoa</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>AB</name>
+				<title offsetX="10" offsetY="60">
+					<gr>AB Super Market</gr>
+					<en>AB Super Market</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Στοά Ελευθερίου Διός</gr>
+						<en>Stoa of Zeus Eleutherios</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>diadrasisOffice</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Diadrasis Office</gr>
+					<en>Diadrasis Office</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νέο Βουλευτήριο</gr>
+						<en>New Bouleuterion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>diadrasisDoor</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Diadrasis Entrance</gr>
+					<en>Diadrasis Entrance</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Παλιό Βουλευτήριο</gr>
+						<en>Old Bouleuterion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Ionic_propylon</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ιωνικό πρόπυλο</gr>
+					<en>Ionic propylon</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ιωνικό πρόπυλο</gr>
+						<en>Ionic propylon</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Tholos</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Θόλος</gr>
+					<en>Tholos</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Θόλος</gr>
+						<en>Tholos</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Monument_of_Eponymous_Heroes</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Μνημείο Επωνύμων Ηρώων</gr>
+					<en>Monument of Eponymous Heroes</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Μνημείο Επωνύμων Ηρώων</gr>
+						<en>Monument of Eponymous Heroes</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Square_Peristyle</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Τετράγωνο Περιστύλιο</gr>
+					<en>Square Peristyle</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Τετράγωνο Περιστύλιο</gr>
+						<en>Square Peristyle</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Stoa_Poikile</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ποικίιλη Στοά</gr>
+					<en>Stoa Poikile</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ποικίιλη Στοά</gr>
+						<en>Stoa Poikile</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>aiakeion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Αιάκειον</gr>
+					<en>Aiakeion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Αιάκειον</gr>
+						<en>Aiakeion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Southwest_fountain_house</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Νοτιοδυτική κρήνη</gr>
+					<en>Southwest fountain house</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νοτιοδυτική κρήνη</gr>
+						<en>Southwest fountain house</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>South_Stoa</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Νότια Στοά</gr>
+					<en>South Stoa</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νότια Στοά</gr>
+						<en>South Stoa</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Archaic_fountain_house</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Νοτιοανατολική κρήνη</gr>
+					<en>Southeast fountain house</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νοτιοανατολική κρήνη</gr>
+						<en>Southeast fountain house</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>The_Mint</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Νομισματοκοπείο</gr>
+					<en>The Mint</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νομισματοκοπείο</gr>
+						<en>The Mint</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>12Gods</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Βωμός 12 θεών</gr>
+					<en>Altar of the 12 gods</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>12Gods</gr>
+						<en>12Gods</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Eschara</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Εσχάρα</gr>
+					<en>Eschara</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Εσχάρα</gr>
+						<en>Eschara</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>acropolis</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ακρόπολη</gr>
+					<en>Acropolis</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ακρόπολη</gr>
+						<en>Acropolis</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+		</points>
+	</Diadrasis>
+	<Agora>
+		<points>
+			<point status="on">
+				<name>Temple_of_Patroos_Apollo</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ναός Πατρώου Απόλλωνα</gr>
+					<en>Patroos Apollo Temple</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ναός Πατρώου Απόλλωνα</gr>
+						<en>Patroos Apollo Temple</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Temple_of_Hephaestus</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ναός Ηφαίστου</gr>
+					<en>Temple of Hephaestus</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ναός Ηφαίστου</gr>
+						<en>Temple of Hephaestus</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Basileios_Stoa</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Βασίλειος Στοά</gr>
+					<en>Royal Stoa</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Βασίλειος Στοά</gr>
+						<en>Royal Stoa</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Stoa_of_Zeus</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Στοά Ελευθερίου Διός</gr>
+					<en>Stoa of Zeus Eleutherios</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Στοά Ελευθερίου Διός</gr>
+						<en>Stoa of Zeus Eleutherios</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>New_Bouleuterion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Νέο Βουλευτήριο</gr>
+					<en>New Bouleuterion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νέο Βουλευτήριο</gr>
+						<en>New Bouleuterion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Old_Bouleuterion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Παλιό Βουλευτήριο</gr>
+					<en>Old Bouleuterion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Παλιό Βουλευτήριο</gr>
+						<en>Old Bouleuterion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Ionic_propylon</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ιωνικό πρόπυλο</gr>
+					<en>Ionic propylon</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ιωνικό πρόπυλο</gr>
+						<en>Ionic propylon</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Tholos</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Θόλος</gr>
+					<en>Tholos</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Θόλος</gr>
+						<en>Tholos</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Monument_of_Eponymous_Heroes</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Μνημείο Επωνύμων Ηρώων</gr>
+					<en>Monument of Eponymous Heroes</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Μνημείο Επωνύμων Ηρώων</gr>
+						<en>Monument of Eponymous Heroes</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Square_Peristyle</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Τετράγωνο Περιστύλιο</gr>
+					<en>Square Peristyle</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Τετράγωνο Περιστύλιο</gr>
+						<en>Square Peristyle</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Stoa_Poikile</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ποικίιλη Στοά</gr>
+					<en>Stoa Poikile</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ποικίιλη Στοά</gr>
+						<en>Stoa Poikile</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>aiakeion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Αιάκειον</gr>
+					<en>Aiakeion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Αιάκειον</gr>
+						<en>Aiakeion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Southwest_fountain_house</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Νοτιοδυτική κρήνη</gr>
+					<en>Southwest fountain house</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νοτιοδυτική κρήνη</gr>
+						<en>Southwest fountain house</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>South_Stoa</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Νότια Στοά</gr>
+					<en>South Stoa</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νότια Στοά</gr>
+						<en>South Stoa</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Archaic_fountain_house</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Νοτιοανατολική κρήνη</gr>
+					<en>Southeast fountain house</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νοτιοανατολική κρήνη</gr>
+						<en>Southeast fountain house</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>The_Mint</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Νομισματοκοπείο</gr>
+					<en>The Mint</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νομισματοκοπείο</gr>
+						<en>The Mint</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>12Gods</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Βωμός 12 θεών</gr>
+					<en>Altar of the 12 gods</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>12Gods</gr>
+						<en>12Gods</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Eschara</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Εσχάρα</gr>
+					<en>Eschara</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Εσχάρα</gr>
+						<en>Eschara</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>acropolis</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ακρόπολη</gr>
+					<en>Acropolis</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ακρόπολη</gr>
+						<en>Acropolis</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+			</point>
+		</points>
+	</Agora>
+	<AgoraRoman>
+		<points>
+		</points>
+	</AgoraRoman>
+	<Klitys>
+		<points>
+			<point status="on">
+				<name>pericles</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ωδείο Περικλή</gr>
+					<en>Odeion of Pericles</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ωδείο Περικλή</gr>
+						<en>Odeion of Pericles</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Theatre_of_Dionyssos</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Θέατρο Διονύσου</gr>
+					<en>Theater of Dionysos</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Θέατρο Διονύσου</gr>
+						<en>Theater of Dionysos</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>temple_dionysos</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ναός Διονύσου</gr>
+					<en>Temple of Dionysos</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ναός Διονύσου</gr>
+						<en>Temple of Dionysos</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>nikias</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Μνημείο Νικία</gr>
+					<en>Nikias Monument</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Μνημείο Νικία</gr>
+						<en>Nikias Monument</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="off">
+				<name>stoa_evmenous</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Στοά Ευμένους</gr>
+					<en>Stoa of Eumenes</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Στοά Ευμένους</gr>
+						<en>Stoa of Eumenes</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Herodeion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ωδείο Ηρώδου του Αττικού</gr>
+					<en>The Odeon of Herodes Atticus</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Το Ηρώδειο, όπως συνήθως αναφέρεται, κτίστηκε  από τον Αθηναίο μεγιστάνα και φιλότεχνο Ηρώδη τον Αττικό κατά τον 2ο αιώνα μ.Χ., προς τιμήν της συζύγου του Ασπασίας Αννίας Ρηγίλλης.</gr>
+						<en>Herodion, as is usually mentioned, is a stone theatre structure that was built in 2nd     century AD by the Athenian magnate Herodes Atticus in memory of his wife, Aspasia Annia Regilla</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>Ο προορισμός του οικοδομήματος ήταν κατά κύριο λόγο οι μουσικές εκδηλώσεις και για τον λόγο αυτό ονομάστηκε Ωδείο. Η ανάγκη της ανέγερσής του προέκυψε μετά την κατάρρευση του Ωδείου που είχε κτιστεί στο κέντρο της αρχαίας αγοράς της Αθήνας από τον στρατηγό του Αυγούστου, τον Αγρίππα, περί το 15 π.Χ., και εκείνο σε αντικατάσταση του ακόμα παλαιότερου Ωδείου του Περικλή, που είχε πυρπολήσει ο Σύλλας το 85 π.Χ..
+
+Ο χώρος που προοριζόταν για το κοινό είχε 32 σειρές από μαρμάρινες κερκίδες και η χωρητικότητά του ήταν της τάξης των 5000 περίπου θεατών. Όπως και στα θέατρα της ρωμαϊκής εποχής, η ορχήστρα είχε ημικυκλικό σχήμα. Το σκηνικό οικοδόμημα βρισκόταν υπερυψωμένο στο βάθος της σκηνής και είχε τρεις ορόφους, δύο εκ των οποίων διατηρούνται μέχρι σήμερα σε ύψος 28 μέτρων. Το ωδείο ήταν στεγασμένο με ξύλινη οροφή από ξύλο κέδρου.</gr>
+						<en>It was originally a steep-sloped theater with a three-story stone front wall and a wooden roof made of expensive, cedar of Lebanon timber. It was used as a venue for music concerts with a capacity of 5,000. It lasted intact until it was destroyed and turned into a ruin by the Heruli in 267 AD.
+
+The audience stands and the orchestra (stage) were restored using pentelic marble in the 1950s. Since then it has been the main venue of the Athens Festival, which runs from May through October each year, featuring a variety of acclaimed Greek as well as International performances.</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images>
+					<image>
+						<file>Regilla.jpg</file>
+						<caption>
+							<gr>Το θέατρο στις αρχές του 18ου αιώνα από τον περιηγητή  Edward Daniel Clarke</gr>
+							<en>The theater at the early 18th century by the traveler Edward Daniel Clarke</en>
+						</caption>
+					</image>
+					<image>
+						<file>Bonfils1831_1885.jpg</file>
+						<caption>
+							<gr>Το θέατρο στα τέλη του 18th  αιώνα από τον Felix Bonfils</gr>
+							<en>The theater at the late 18th century by Felix Bonfils</en>
+						</caption>
+					</image>
+					<image>
+						<file>Bundesarchiv.jpg</file>
+						<caption>
+							<gr>O Herbert von Karajan διευθύνει την ορχήστρα του Ωδείου Αθηνών το 1949</gr>
+							<en>Herbert von Karajan conducts the Orchestra of the Athens Conservatory at 1949</en>
+						</caption>
+					</image>
+				</images>
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>acropolis</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ακρόπολη</gr>
+					<en>Acropolis</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ακρόπολη</gr>
+						<en>Acropolis</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>olympieionlow</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ολυμπιείον</gr>
+					<en>Olympieion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ολυμπιείον</gr>
+						<en>Olympieion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Hadrians_Arch</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Πύλη Αδριανού</gr>
+					<en>Hadrian's Arch</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Πύλη Αδριανού</gr>
+						<en>Hadrian's Arch</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+		</points>
+	</Klitys>
+	<Olympeion>
+		<points>
+			<point status="on">
+				<name>olympieion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ναός του Ολυμπίου Διός</gr>
+					<en>Temple of Olympian Zeus</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ο Ναός του Ολυμπίου Διός ή Ολυμπιείο ή στην καθομιλουμένη  Στύλοι του Ολυμπίου Διός, άρχισε να κατασκευάζεται τον 5ο αιώνα π.Χ.  και ολοκληρώθηκε το 2ο  αιώνα μ.Χ. από το  Ρωμαίο αυτοκράτορα Αδριανό.  Ήταν ο μεγαλύτερος  ναό της Ελλάδας κατά τους Ελληνιστικούς και Ρωμαϊκούς χρόνους.</gr>
+						<en>The Temple of Olympian Zeus, also known as the Olympieion or Columns of the Olympian Zeus, was dedicated to Zeus, king of the Olympian gods. Construction began in the 6th century BC but it was not completed until the reign of the Roman Emperor Hadrian in the 2nd century AD. During the Roman and Hellenistic periods it was renowned as the largest temple in Greece.</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>Τα θεμέλια του πρώτου ναού στο χώρο, είχε κτίσει ο τύραννος των Αθηνών Πεισίστρατος το 515 π.Χ. αλλά οι εργασίες σταμάτησαν όταν ο γιος του Πεισιστράτου, Ιππίας εξοστρακίστηκε το 510 π.Χ.
+
+Κατά τη διάρκεια της Αθηναϊκής Δημοκρατίας, ο ναός παρέμεινε ημιτελής. Στο έργο του Πολιτική, ο Αριστοτέλης χρησιμοποιεί τον ναό σαν παράδειγμα για το πώς τα τυραννικά καθεστώτα αναγκάζουν τον πληθυσμό να ασχολείται με τεράστια έργα, μην αφήνοντας τους χρόνο, ενέργεια και τρόπους αντίδρασης.
+
+Η αποπεράτωση του ναού έγινε τον 3ο αιώνα π.Χ. κατά τη διάρκεια της Μακεδονικής κυριαρχίας στην Ελλάδα υπό την αιγίδα του Ελληνιστικού βασιλιά Αντιόχου του Δ΄ Επιφανούς, που προσέλαβε τον Ρωμαίο αρχιτέκτονα Κοσσούτιο να σχεδιάσει τον μεγαλύτερο ναό στον τότε γνωστό κόσμο. Όταν ο Αντίοχος πέθανε, το 164 π.Χ., η κατασκευή του ναού σταμάτησε ξανά.
+
+Το 86 π.Χ., όταν οι ελληνικές πόλεις περιήλθαν υπό Ρωμαϊκή κυριαρχία, ο στρατηγός Κορνήλιος Σύλλας πήρε 2 κίονες από τον ημιτελή ναό στη Ρώμη για να κοσμήσει το ναό του Δία στο λόφο του Καπιτωλίου. Οι κίονες αυτοί επηρέασαν τη διάδοση και άνθιση του κορινθιακού ρυθμού στην Ρώμη.
+
+O ναός ολοκληρώθηκε τελικά το 129 μ.Χ. από τον αυτοκράτορα Αδριανό που ήταν μεγάλος θαυμαστής του ελληνικού πολιτισμού.</gr>
+						<en>Construction began in the 6th century BC during the rule of the Athenian tyrants, who envisaged building the greatest temple in the ancient world, but it was not completed until the reign of the Roman Emperor Hadrian in the 2nd century AD some 638 years after the project had begun. During the Roman periods it was renowned as the largest temple in Greece and housed one of the largest cult statues in the ancient world.
+
+The temple's glory was short-lived, as it fell into disuse after being pillaged in a barbarian invasion in the 3rd century AD. It was probably never repaired and was reduced to ruins thereafter. In the centuries after the fall of the Roman Empire, it was extensively quarried for building materials to supply building projects elsewhere in the city. Despite this, a substantial part of the temple remains today, and it continues to be a major tourist attraction.</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images>
+					<image>
+						<file>Temple_of_Olympios_1821.jpg</file>
+						<caption>
+							<gr>Απεικόνιση των αρχών του 18ου  αιώνα από τον Ιρλανδό περιηγητή Edward Dodwell</gr>
+							<en>An eartly 18th-century depiction by the Irish traveler Edward Dodwell</en>
+						</caption>
+					</image>
+					<image>
+						<file>Temple_of_Olympian_Zeus_1915.jpg</file>
+						<caption>
+							<gr>Φωτογραφία του Joseph-Philibert Girault de Prangey των αρχών του 19ου αιώνα</gr>
+							<en>An early 19th century image of  Joseph-Philibert Girault de Prangey</en>
+						</caption>
+					</image>
+					<image>
+						<file>Bundesarchiv_Bild.jpg</file>
+						<caption>
+							<gr>Κατά τη διάρκεια της γερμανικής κατοχής στο β’ παγκόσμιο πόλεμο.</gr>
+							<en>During the second world war German Occupation</en>
+						</caption>
+					</image>
+				</images>
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Bath_of_Olympieion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Λουτρό Ολυμπιείου</gr>
+					<en>Bath of Olympieion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Λουτρό Ολυμπιείου</gr>
+						<en>Bath of Olympieion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Hadrians_Arch</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Πύλη Αδριανού</gr>
+					<en>Hadrian's Arch</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Πύλη Αδριανού</gr>
+						<en>Hadrian's Arch</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>propylon_olympieion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Πρόπυλο</gr>
+					<en>Propylon</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Πρόπυλο</gr>
+						<en>Propylon</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>notia_Klitys</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Νότια κλιτύς Ακρόπολης</gr>
+					<en>Acropolis' south slope</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Νότια κλιτύς Ακρόπολης</gr>
+						<en>Acropolis' south slope</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>Acropolis</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ακρόπολη</gr>
+					<en>Acropolis</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ακρόπολη</gr>
+						<en>Acropolis</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+		</points>
+	</Olympeion>
+	<Roman>
+		<points>
+			<!--Roman-->
+			<point status="on">
+				<name>aerides</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Αέρηδες</gr>
+					<en>Aerides</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Το Ωρολόγιο κτίστηκε από τον αστρονόμο Ανδρόνικο από την Κύρρο της Μακεδονίας στο πρώτο μισό του 1ου αιώνα π.Χ. Στο πάνω μέρος κάθε πλευράς εικονίζονται ανάγλυφα οι άνεμοι με τα σύμβολά τους και τα ονόματά τους χαραγμένα. Εξωτερικά υπήρχαν ηλιακά ρολόγια, ενώ εσωτερικά λειτουργούσε υδραυλικό ρολόι. Το μνημείο αυτό θεωρείται ο αρχαιότερος μετεωρολογικός - ωρομετρικός σταθμός του κόσμου.</gr>
+						<en>Aerides</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>aerides</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>aerides</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>pantheon</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Πάνθεον</gr>
+					<en>Pantheon</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Πάνθεον</gr>
+						<en>Pantheon</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>bibliothiki_andrianou</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Βιβλιοθήκη Αδριανού</gr>
+					<en>Library of Hadrian</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Βιβλιοθήκη Αδριανού</gr>
+						<en>Library of Hadrian</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>agora_roman</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ρωμαϊκή Αγορά</gr>
+					<en>Roman Agora</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ρωμαϊκή Αγορά</gr>
+						<en>Roman Agora</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>agoranomeion_gate</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Αγορανομείον</gr>
+					<en>Agoranomeion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Αγορανομείον</gr>
+						<en>Agoranomeion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>vespasianes</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Βεσπασιανές</gr>
+					<en>Vespasianes</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Βεσπασιανές</gr>
+						<en>Vespasianes</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>gate_archigetidos</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Πύλη Αθηνάς Αρχηγέτιδος</gr>
+					<en>Gate of Athena Archigetis</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Πύλη Αθηνάς Αρχηγέτιδος</gr>
+						<en>Gate of Athena Archigetis</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>acropolis</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ακρόπολη</gr>
+					<en>Acropolis</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ακρόπολη</gr>
+						<en>Acropolis</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>agora</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Αγορά</gr>
+					<en>Agora</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Αγορά</gr>
+						<en>Agora</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+		</points>
+	</Roman>
+	<Aerides>
+		<points>
+			<point status="on">
+				<name>akropolis</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Akropolis</gr>
+					<en>Akropolis</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Akropolis</gr>
+						<en>Akropolis</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+				</descriptions>
+				<history />
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+					<!--<narration>
+						<file>1_Koulesen</file>
+					</narration>-->
+				</narrations>
+				<images>
+					<image>
+						<file>
+						</file>
+						<caption>
+							<gr>
+							</gr>
+							<en>
+							</en>
+						</caption>
+					</image>
+				</images>
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<!--Aerides-->
+			<point status="on">
+				<name>aerides</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Αέρηδες - Τεκές του Μπραΐμη</gr>
+					<en>Aerides</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Έτσι ονομάστηκε το Ωρολόγιο του Ανδρονίκου του Κυρρήστου όταν μετατράπηκε σε Τεκέ δηλαδή τόπο προσευχής ενός μουσουλμανικού τάγματος Δερβίσηδων.</gr>
+						<en>Short Description</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<!--					<description>
+						<gr> Έτσι ονομάστηκε το Ωρολόγιο του Ανδρονίκου του Κυρρήστου όταν μετατράπηκε σε Τεκέ δηλαδή τόπο προσευχής ενός μουσουλμανικού τάγματος Δερβίσηδων. Οι Δερβίσηδες στόλισαν το κτήριο με πράσινες σημαίες και άλλα ιερά σύμβολα του Ισλάμ, άνοιξαν παράθυρα, προσέθεσαν ξύλινο πάτωμα και λάξεψαν στον τοίχο μία ημικυκλική εσοχή που υποδεικνύει την κατεύθυνση προς τη Μέκκα και ονομάζεται μιχράμπ. Κάθε Παρασκευή εδώ γινόταν η τελετουργία όπου οι Δερβίσηδες χόρευαν τον ιερό τους χορό το σεμά. 
+
+Ο βρετανός περιηγητής Edward Dodwell (1767-1832) που επισκέφθηκε την Αθήνα το 1805 αναφέρει χαρακτηριστικά «Την ιεροτελεστία ξεκινούν οι δερβίσηδες, τους οποίους πλαισιώνουν κάμποσοι Τούρκοι καθισμένοι κυκλικά στο πάτωμα, και ψέλνουν ύμνους στο Θεό και το Μωάμεθ. Τη μοναδική μουσική συνοδεία παρέχουν δύο μικρά τύμπανα. Ξαφνικά, σηκώνονται όλοι μαζί και αρχίζουν να ψέλνουν και να χορεύουν κυκλικά, με μεγάλη ένταση και ταχύτητα! Όταν κουραστούν, κάνουν τόπο στους δύο βασικούς χορευτές, οι οποίοι, κρατώντας ο ένας τον άλλον από το ζωνάρι, περιστρέφονται με απίστευτη ταχύτητα. Ο χορός αυτός θα εξέπληττε αφάνταστα ακόμα και τους ικανότερους χορευτές και ακροβάτες μας.»
+</gr>
+						<en></en>
+					</description>-->
+				</descriptions>
+				<history />
+				<models>
+					<model>
+						<prefab>Aerides/modelsAerides/aerides</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>aerides</file>
+					</narration>
+					<!--<narration>
+						<file>1_Koulesen</file>
+					</narration>-->
+				</narrations>
+				<images>
+					<image>
+						<file>13.jpg</file>
+						<caption>
+							<gr>Εσωτερική όψη του Ωρολογίου του Ανδρονίκου Κυρρήστου το οποίο είχε μετατραπεί σε τόπο συνάθροισης δερβίσηδων και ήταν γνωστό ως ο τεκές του Μπραΐμη. Επιχρωματισμένη χαλκογραφία του Edward Dodwell (1821).</gr>
+							<en>Aerides</en>
+						</caption>
+					</image>
+					<image>
+						<file>derwisches.jpg</file>
+						<caption>
+							<gr>Χορός των Δερβίσηδων στο Υδραυλικό Ωρολόγιο του Ανδρονίκου Κυρρήστου που λειτουργούσε ως τεκές των Δερβίσηδων, Dodwell 1819. </gr>
+							<en>Aerides</en>
+						</caption>
+					</image>
+				</images>
+				<videos>
+					<video>
+						<file>aerides</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<!---Hamam-->
+			<point status="on">
+				<name>hamam</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Χαμάμ - Λουτρό του Σταροπάζαρου</gr>
+					<en>Hammam</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Το λουτρό Χαμάμ Μπέη που βρισκόταν στο Σταροπάζαρο αποτελούσε τόπο θρησκευτικού εξαγνισμού αλλά κυρίως τόπο κοινωνικής συναναστροφής. Κατεδαφίστηκε το 1890.</gr>
+						<en>
+						</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<!--					<description>
+						<gr>Σύμφωνα με τη μαρτυρία του οθωμανού περιηγητή Εβλιγιά Τσελεμπί (1611 – 1682) που επισκέπτεται την Αθήνα το 1667, στην πόλη λειτουργούν «τρία ευχάριστα χαμάμια»: Το Μπέη χαμάμ ή “Λουτρό του Σταροπάζαρου”, του Χατζή Αλή ή “Λουτρό του Ροδακιού” και του Αμπίντ Εφέντη ή “Λουτρό των Αέρηδων”, το οποίο είναι και το μόνο που σώζεται. 
+
+Οι θρησκευτικές επιταγές του Κορανίου καθιστούν απαραίτητη την καθαριότητα πριν την προσευχή, καθιστώντας την επίσκεψη στο λουτρό μια αναγκαιότητα για τους μουσουλμάνους. Όμως τα χαμάμ επισκέπτονταν όλες οι κοινωνικές και θρησκευτικές ομάδες της οθωμανικής αυτοκρατορίας. Πέρα τόπος θρησκευτικού εξαγνισμού και προσωπικής υγιεινής, τα χαμάμ αποτελούν τόπο κοινωνικής συναναστροφής και ψυχαγωγίας, ειδικά για τις γυναίκες που είχαν περιορισμούς εξόδων. Τονίζοντας τον κοινωνικό ρόλο των λουτρών ο συνοδοιπόρος του λόρδου Βύρωνα John Hobblouse (1786 – 1869) τα χαρακτήρισε ως «το καφενείο της Ανατολής». 
+
+Μετά την ελληνική επανάσταση, το Μπέη χαμάμ στέγασε μουσείο εκμαγείων. Κατεδαφίστηκε από την Αρχαιολογική Εταιρεία το 1890, μαζί με άλλα κτήρια - κυρίως οικίες - που καταλάμβαναν το χώρο της ρωμαϊκής αγοράς με σκοπό τη διενέργεια ανασκαφών. 
+</gr>
+						<en></en>
+					</description>-->
+				</descriptions>
+				<history />
+				<models>
+					<model>
+						<prefab>Aerides/modelsAerides/hamam</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations />
+				<images>
+					<image>
+						<file>Allom Steel Engraving.jpg</file>
+						<caption>
+							<gr>Τουρκικά Λουτρά στην Κωνσταντινούπολη. Χαλκογραφία του Thomas Allom (1836).</gr>
+							<en>Hammam</en>
+						</caption>
+					</image>
+					<image>
+						<file>Hammam.jpg</file>
+						<caption>
+							<gr>Το λουτρό Χαμάμ Μπέη τον 19ο αιώνα (επιχρωματισμένο κτήριο). Φωτογραφία του Π. Μωραΐτη. </gr>
+							<en>Hammam</en>
+						</caption>
+					</image>
+				</images>
+				<videos />
+				<!---<videos />-->
+			</point>
+			<!--Spiti Kamaras-->
+			<point status="on">
+				<name>spitikam</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Σπίτι με τις καμάρες</gr>
+					<en>Spiti Agoranomiou</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Οικία με ενσωματωμένα μέλη ρωμαϊκού κτηρίου (του λεγόμενου Αγορανομείου) και κρήνη.</gr>
+						<en>
+						</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<!--					<description>
+						<gr>Η οικία αυτή είχε ενσωματώσει στο ισόγειό της τοξωτά υπέρθυρα από μάρμαρο Υμηττού που ανήκαν σε ρωμαϊκό κτήριο (το λεγόμενο Αγορανομείο). Ένα υπέρθυρο είχε κοπεί στη μέση για να διευκολυνθεί η κυκλοφορία πεζών και οχημάτων στον παρακείμενο της οικίας δρόμο. Σε απεικόνιση ανώνυμου περιηγητή η οικία εικονίζεται να φέρει παράθυρο με γοτθικά τόξα, κάτι που δεν αποκλείεται να αποτελεί φανταστική προσθήκη του καλλιτέχνη. </gr>
+						<en></en>
+					</description>-->
+				</descriptions>
+				<history />
+				<models>
+					<model>
+						<prefab>Aerides/modelsAerides/spitikamares/spitikam</prefab>
+						<transforms>
+							<transform>
+								<position x="-4.009562" y="-8.276661" z="-88.31538" />
+								<rotation x="0" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations />
+				<images>
+					<image>
+						<file>Agoranomion.jpg</file>
+						<caption>
+							<gr>Σπιτι Αγορανομείου</gr>
+							<en>Spiti Agoranomion</en>
+						</caption>
+					</image>
+				</images>
+				<videos />
+			</point>
+			<!--Tzami-->
+			<point status="on">
+				<name>tzami</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Φετιχιέ Τζαμί</gr>
+					<en>Tzami</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>To Φετιχιέ Τζαμί ή Τζαμί του Πορθητή κτίστηκε το 1669-1670 στη θέση παλαιοχριστιανικής βασιλικής, η οποία είχε μετατραπεί σε τζαμί το 1458 κατά την επίσκεψη του Σουλτάνου Μωάμεθ του Πορθητή στην Αθήνα, από τον οποίο και πήρε το όνομά του.</gr>
+						<en>
+						</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<!--					<description>
+						<gr>Φετιχιέ Τζαμί ή Τζαμί του Πορθητή ή Τζαμί του Παζαριού ή του Σταροπάζαρου ή Μεγάλο Τζαμί, (1669-1670). Κτίζεται το 17ο αιώνα μετά την κατάκτηση του Χάνδακα πάνω σε παλαιοχριστιανική βασιλική στο εσωτερικό της οποίας είχε διαμορφωθεί μικρό μιχραμπ το 1458 κατά την επίσκεψη του Σουλτάνου Μωάμεθ του Πορθητή στην Αθήνα, από τον οποίο και πήρε το όνομά του. Αργότερα η βασιλική θα κατεδαφισθεί για να κατασκευαστεί το τζαμί. Κατά την σύντομη κατοχή της Αθήνας από τους Βενετούς του Φραγκίσκου Μοροζίνι (1687-1688) το τζαμί μετατράπηκε σε καθολική εκκλησία του Αγίου Διονυσίου. 
+
+Κύρια χαρακτηριστικά κάθε τζαμιού είναι ο μιναρές, από τον οποίο πέντε φορές την μέρα γίνεται το κάλεσμα της προσευχής, και η αυλή στην οποία συνήθως υπάρχει κρήνη για να πλένονται οι πιστοί πριν την προσευχή. Βασικά στοιχεία του εσωτερικού είναι το μιχράμπ (κόγχη που υποδεικνύει την κατεύθυνση προς τη Μέκκα) το μινμπάρ (άμβωνας), το αναλόγιο για το Κοράνι, καθώς και οι καντήλες. Τα τζαμιά όπως και όλα τα ισλαμικά θρησκευτικά κτήρια (ιεροδιδασκαλείο, μαυσωλείο), δεν φέρουν απεικονίσεις έμψυχων όντων και η διακόσμηση είναι αποκλειστικά φυτική ή επιγραφική. 
+
+Η αυλή του τζαμιού, ο μιναρές και το μουσουλμανικό νεκροταφείο που περιέβαλε το τζαμί καταστράφηκαν κατά την Επανάσταση. Από το μιναρέ σώζεται μόνο η βάση του ενώ από το νεκροταφείο έχουν διασωθεί ελάχιστες μόνο ταφόπλακες. Μετά την ανεξαρτησία της Ελλάδας χρησιμοποιήθηκε διαδοχικά ως αλληλοδιδακτική σχολή, στρατώνας, αποθήκη κρατικών υλικών και τέλος έγινε στρατιωτικός φούρνος, ενώ για κάποιο διάστημα είχε στεγάσει και τη Φιλόμουσο Εταιρία. Ξαναβρήκε την αρχική μορφή του αφού αναιρεθήκαν τα πρόσθετα οικοδομήματα. Σήμερα ανήκει στην Αρχαιολογική εταιρεία.
+</gr>
+						<en></en>
+					</description>-->
+				</descriptions>
+				<history />
+				<models>
+					<model>
+						<prefab>Aerides/modelsAerides/tzami</prefab>
+						<transforms>
+							<transform>
+								<position x="-19.29033" y="-1.263167" z="-90.79905" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations />
+				<images>
+					<image>
+						<file>FETIHIEOLD01.jpg</file>
+						<caption>
+							<gr>Φετιχιέ Τζαμί</gr>
+							<en>Tzami</en>
+						</caption>
+					</image>
+					<image>
+						<file>loadOttoman.jpg</file>
+						<caption>
+							<gr> Γενί Τζαμί ή τζαμί της Μπέινας ή τζαμί του Ροδακιού, από το όνομα της συνοικίας όπου βρισκόταν. Χτίστηκε το 17ο αιώνα και γύρω του υπήρχε εκτενές νεκροταφείο. Κατά την οθωμανική περίοδο οι ταφές γίνονταν στον περίβολο εκκλησιών και τζαμιών.  Κάπως έτσι μπορούμε να φανταστούμε και τον περίβολο του Φετιχιέ Τζαμί. Χαλκογραφεία του Luis Dupré (1825).</gr>
+							<en>Tzami</en>
+						</caption>
+					</image>
+				</images>
+				<videos />
+			</point>
+			<!--Mendreses-->
+			<point status="on">
+				<name>mendreses</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Μεδρεσές (Ιεροδιδασκαλείο)</gr>
+					<en>Mentreses</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ο Μεδρεσές ήταν μουσουλμανικό ιεροδιδασκαλείο που χτίστηκε το 1721. Από τα χρόνια της βασιλείας του Όθωνα και έκτοτε, χρησιμοποιήθηκε ως φυλακή. Κατεδαφίστηκε σχεδόν στο σύνολό του το 1914.</gr>
+						<en>
+						</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<!--					<description>
+						<gr>Σύμφωνα με σωζόμενη επιγραφή χτίσθηκε το 1721 από τον Μεχμέτ Φαχρή. Είχε τετράγωνο σχήμα με εσωτερική αυλή με περίστυλο και γύρω μικρά θολοσκέπαστα δωμάτια με τζάκι τα οποία χρησίμευαν ως αίθουσες διδασκαλίας και κοιτώνες. Στη βορειοανατολική πλευρά υπήρχε μικρό τζαμί. 
+
+Στους μεδρεσέδες διδάσκονταν σουνιτική θεολογία, ισλαμική φιλοσοφία, ιστορία, θρησκευτικό δίκαιο, μαθηματικά, αραβική, περσική και τουρκική φιλολογία και καλλιγραφία. Τα έξοδα φοίτησης κάλυπτε το οθωμανικό δημόσιο. Κατά την παράδοση των μαθημάτων ο δάσκαλος καθόταν σε χαμηλή καρέκλα, με τους μαθητές καθισμένους κυκλικά γύρω του. Επίσημο πρόγραμμα δεν υπήρχε, οι μαθητές συνέχιζαν τις σπουδές τους για όσο καιρό θεωρούσαν οι ίδιοι και οι καθηγητές ότι χρειαζόταν, κατόπιν διορίζονταν στις σημαντικότερες θέσεις της δικαιοσύνης, της διοίκησης και της θρησκείας. 
+
+Στα χρόνια της βασιλείας του Όθωνα ο μεδρεσές χρησιμοποιήθηκε ως φυλακή, ενώ κατά τη δεκαετία του 1850 προστέθηκε και δεύτερος όροφος. Κατεδαφίστηκε το 1914 και απομένουν μόνο μία αίθουσα και η πύλη που φέρει επιγραφή. 
+</gr>
+						<en></en>
+					</description>-->
+				</descriptions>
+				<history />
+				<models>
+					<model>
+						<prefab>Aerides/modelsAerides/mendreses</prefab>
+						<transforms>
+							<transform>
+								<position x="-88.45984" y="-2.723099" z="-106.4311" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations />
+				<images>
+					<image>
+						<file>mendresesxaraktiko18oygray.jpg</file>
+						<caption>
+							<gr>Μεντρεσές</gr>
+							<en>mentresses</en>
+						</caption>
+					</image>
+					<image>
+						<file>mentresses.jpg</file>
+						<caption>
+							<gr>Μεντρεσές</gr>
+							<en>mentreses</en>
+						</caption>
+					</image>
+				</images>
+				<videos />
+			</point>
+			<!--tekes-->
+			<point status="on">
+				<name>tekesPre</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Τεκές</gr>
+					<en>Tekes</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Οι τεκέδες ήταν τόπος συνάθροισης μυστικιστικών ταγμάτων του σουφικού Ισλάμ. Συνήθως συγκροτήματα κτηρίων που περιελάμβαναν τζαμί, τουρμπέ (μαυσωλείο) και ένα σύνολο κελιών όπου φιλοξενούνταν οι δερβίσηδες.</gr>
+						<en>
+						</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<!--					<description>
+						<gr>Απέναντι από το Φετιχιέ τζαμί βρίσκονταν θολοσκέπαστο κτήριο το οποίο στέγαζε τεκέ. 
+
+Οι τεκέδες ήταν τόπος συνάθροισης μυστικιστικών ταγμάτων του σουφικού Ισλάμ (Μεβλεβήδες, Μπεκτασήδες). Συνήθως οι τεκέδες ήταν συγκροτήματα κτηρίων  που περιελάμβαναν τζαμί, τουρμπέ (μαυσωλείο) και ένα σύνολο κελιών όπου φιλοξενούνταν οι δερβίσηδες.
+
+Μετά την ανεξαρτησία, το 1834, ο τεκές παραχωρήθηκε στους καθολικούς της Αθήνας - Έλληνες και ξένους, κυρίως Βαυαρούς – για να στεγάσει καθολική εκκλησία. Αργότερα το κτήριο εγκαταλείφθηκε και εν συνεχεία κατεδαφίσθηκε για να αντικατασταθεί από νεοκλασική κατοικία.  
+</gr>
+						<en></en>
+					</description>-->
+				</descriptions>
+				<history />
+				<models>
+					<model>
+						<prefab>Aerides/modelsAerides/tekesPre</prefab>
+						<transforms>
+							<transform>
+								<position x="-88.45984" y="-2.723099" z="-106.4311" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations />
+				<images />
+				<videos />
+			</point>
+		</points>
+	</Aerides>
+	<Kerameikos>
+		<points>
+			<point status="on">
+				<name>Pompeion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Πομπείον</gr>
+					<en>Pompeion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Πομπείον</gr>
+						<en>Pompeion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos />
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>loutro</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Λουτρό</gr>
+					<en>Bath</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Λουτρό</gr>
+						<en>Bath</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>dipylon</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Δίπυλον</gr>
+					<en>Dipylon</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Δίπυλον</gr>
+						<en>Dipylon</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>ierapyli</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ιερά Πύλη</gr>
+					<en>Sacred Gate</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ιερά Πύλη</gr>
+						<en>Sacred Gate</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>teixos</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Τείχη</gr>
+					<en>City Wall</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Τείχη</gr>
+						<en>City Wall</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>krini</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Κρήνη</gr>
+					<en>Fountain house</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Κρήνη</gr>
+						<en>Fountain house</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>iridanos</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ηριδανός</gr>
+					<en>Eridanos</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ηριδανός</gr>
+						<en>Eridanos</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+		</points>
+	</Kerameikos>
+	<Akropolis>
+		<points>
+			<point status="on">
+				<name>parthenon</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Παρθενώνας</gr>
+					<en>Parthenon</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Παρθενώνας</gr>
+						<en>Parthenon</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>tethrippon1</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Τέθριππο</gr>
+					<en>Τethrippon</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Τέθριππο</gr>
+						<en>Τethrippon</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>tethrippon2</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Τέθριππο</gr>
+					<en>Tethrippon</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Τέθριππο</gr>
+						<en>Tethrippon</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>vomos</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Βωμός Αθηνάς</gr>
+					<en>Altar of Athena</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Βωμός Αθηνάς</gr>
+						<en>Altar of Athena</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>romi</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ναός Ρώμης και Αυγούστου</gr>
+					<en>Temple of Rome and Augustus</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ναός Ρώμης και Αυγούστου</gr>
+						<en>Temple of Rome and Augustus</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>zeus</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ναός Διός Πολιέως</gr>
+					<en>Temple of Zeus Polieus</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ναός Διός Πολιέως</gr>
+						<en>Temple of Zeus Polieus</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>arrephorion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Αρρηφόριο</gr>
+					<en>Arrephorion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Αρρηφόριο</gr>
+						<en>Arrephorion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>promaxos</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Αθηνά Πρόμαχος</gr>
+					<en>Athena Promachos</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Αθηνά Πρόμαχος</gr>
+						<en>Athena Promachos</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>chalkothiki</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Χαλκοθήκη</gr>
+					<en>chalkotheke</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Χαλκοθήκη</gr>
+						<en>chalkotheke</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>artemis</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Στοά Βραυρωνίας Αρτέμιδος</gr>
+					<en>Stoa of Artemis Brauronia</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Στοά Βραυρωνίας Αρτέμιδος</gr>
+						<en>Stoa of Artemis Brauronia</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>artemistemple</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ναός Αρτέμιδος Βραυρωνίας</gr>
+					<en>Temple of Artemis Brauronia</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ναός Αρτέμιδος Βραυρωνίας</gr>
+						<en>Temple of Artemis Brauronia</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>pandion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ιερό Πανδίονος</gr>
+					<en>Pandion Sanctuary</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ακρόπολη</gr>
+						<en>Ιερό Πανδίονος</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>erechtheion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ερέχθειο</gr>
+					<en>Erechtheion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ερέχθειο</gr>
+						<en>Erechtheion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>pandroseion</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Πανδρόσειον</gr>
+					<en>Pandroseion</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Πανδρόσειον</gr>
+						<en>Pandroseion</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>propylaia</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Προπύλαια</gr>
+					<en>Propylaea</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Προπύλαια</gr>
+						<en>Propylaea</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>pinakothiki</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Πινακοθήκη</gr>
+					<en>Pinakotheke</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Πινακοθήκη</gr>
+						<en>Pinakotheke</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+			<point status="on">
+				<name>nike</name>
+				<title offsetX="10" offsetY="60">
+					<gr>Ναός ΑΘηνάς Νίκης</gr>
+					<en>Temple of Athena Nike</en>
+				</title>
+				<shortDescriptions>
+					<shortDescription>
+						<gr>Ναός ΑΘηνάς Νίκης</gr>
+						<en>Temple of Athena Nike</en>
+					</shortDescription>
+				</shortDescriptions>
+				<descriptions>
+					<description>
+						<gr>
+						</gr>
+						<en>
+						</en>
+					</description>
+				</descriptions>
+				<models>
+					<model>
+						<prefab>
+						</prefab>
+						<transforms>
+							<transform>
+								<position x="-59.46558" y="-1.271557" z="-56.70876" />
+								<rotation x="270" y="0" z="0" />
+							</transform>
+						</transforms>
+					</model>
+				</models>
+				<narrations>
+					<narration>
+						<file>
+						</file>
+					</narration>
+				</narrations>
+				<images />
+				<videos>
+					<video>
+						<file>
+						</file>
+						<position x="0" y="0" z="0" />
+						<rotation x="0" y="0" z="0" />
+						<caption>
+							<gr>
+							</gr>
+							<en />
+						</caption>
+					</video>
+				</videos>
+				<!---<videos />-->
+			</point>
+		</points>
+	</Akropolis>
+</scenes>

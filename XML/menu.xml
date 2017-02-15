@@ -1,0 +1,473 @@
+<menu version="1.0">
+	<sceneAreas>
+		<!--			Diadrasis-->
+		<sceneArea>
+			<name>diadrasis</name>
+			<imageOnMap>aeridesMenu</imageOnMap>
+			<labelTitle>
+				<gr>Diadrasis</gr>
+				<en>Diadrasis</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>34</x>
+				<y>366</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>137</x>
+				<y>78</y>
+				<z>23</z>
+				<w>366</w>
+			</mapBtnSizePos>
+			<periods>
+				<period>
+					<poiName>Diadrasis</poiName>
+					<icon>period_olympeion</icon>
+					<sceneName>diadrasisMain</sceneName>
+					<sceneKamera>null</sceneKamera>
+					<loadingImage>loadOlympeion</loadingImage>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>
+								</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<introTexts>
+							<introText>
+								<gr>Παρακαλώ περιμένετε
+Diadrasis is loading</gr>
+								<en>Please wait
+You are being transferred to Diadrasis during the Ice Age period</en>
+							</introText>
+						</introTexts>
+					</intro>
+					<labelTitle>
+						<gr>2317 μ.Χ.</gr>
+						<en>0.1 AD</en>
+					</labelTitle>
+					<spotPositions>
+						<spotPos>
+							<x>18</x>
+							<y>201</y>
+							<z>23</z>
+						</spotPos>
+					</spotPositions>
+				</period>
+			</periods>
+		</sceneArea>
+		<!-- Aerides -->
+		<sceneArea>
+			<name>aerides</name>
+			<imageOnMap>aeridesMapIcon</imageOnMap>
+			<labelTitle>
+				<gr>Αέρηδες</gr>
+				<en>Aerides</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>30</x>
+				<y>15</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>65</x>
+				<y>70</y>
+				<z>-11</z>
+				<w>0</w>
+			</mapBtnSizePos>
+			<periods>
+				<!--				Roman-->
+				<period>
+					<poiName>Roman</poiName>
+					<icon>period_romaiki</icon>
+					<sceneName>romanMain</sceneName>
+					<sceneKamera>null</sceneKamera>
+					<loadingImage>loadRoman</loadingImage>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>
+								</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<introTexts>
+							<introText>
+								<gr>Παρακαλώ περιμένετε
+Μεταφέρεστε στους Αέρηδες κατά τη ρωμαϊκή εποχή</gr>
+								<en>Please wait
+You are being transferred to Aerides during the roman period</en>
+							</introText>
+						</introTexts>
+					</intro>
+					<labelTitle>
+						<gr>138 μ.Χ.</gr>
+						<en>138 AD</en>
+					</labelTitle>
+				</period>
+				<!--					Ottoman-->
+				<period>
+					<poiName>Aerides</poiName>
+					<icon>period_othomaniki</icon>
+					<sceneName>aeridesMain</sceneName>
+					<sceneKamera>aeridesCamera</sceneKamera>
+					<loadingImage>loadOttoman</loadingImage>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>
+								</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<introTexts>
+							<introText>
+								<gr>Παρακαλώ περιμένετε
+Μεταφέρεστε στους Αέρηδες κατά την Οθωμανική περίοδο</gr>
+								<en>Please wait
+You are being transferred to Aerides during the Ottoman period</en>
+							</introText>
+						</introTexts>
+					</intro>
+					<labelTitle>
+						<gr>1833 μ.Χ.</gr>
+						<en>1833 AD</en>
+					</labelTitle>
+				</period>
+			</periods>
+		</sceneArea>
+		<!--			Olympeion-->
+		<sceneArea>
+			<name>olympeion</name>
+			<imageOnMap>aeridesMenu</imageOnMap>
+			<labelTitle>
+				<gr>Ολυμπιείο</gr>
+				<en>Olympieion</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>165</x>
+				<y>-105</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>69</x>
+				<y>53</y>
+				<z>133</z>
+				<w>-148</w>
+			</mapBtnSizePos>
+			<periods>
+				<period>
+					<poiName>Olympeion</poiName>
+					<icon>period_olympeion</icon>
+					<sceneName>olympeionMain</sceneName>
+					<sceneKamera>null</sceneKamera>
+					<loadingImage>loadOlympeion</loadingImage>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>
+								</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<introTexts>
+							<introText>
+								<gr>Παρακαλώ περιμένετε
+Μεταφέρεστε στο Ολυμπιείο κατά τη ρωμαϊκή εποχή</gr>
+								<en>Please wait
+You are being transferred to Olympieion during the roman period</en>
+							</introText>
+						</introTexts>
+					</intro>
+					<labelTitle>
+						<gr>131 μ.Χ.</gr>
+						<en>131 AD</en>
+					</labelTitle>
+					<spotPositions>
+						<spotPos>
+							<x>18</x>
+							<y>201</y>
+							<z>23</z>
+						</spotPos>
+					</spotPositions>
+				</period>
+			</periods>
+		</sceneArea>
+		<!--			Klitys-->
+		<sceneArea>
+			<name>klitys</name>
+			<imageOnMap>aeridesMenu</imageOnMap>
+			<labelTitle>
+				<gr>Νότια Κλιτύς</gr>
+				<en>South Slope</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>-100</x>
+				<y>-125</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>138</x>
+				<y>40</y>
+				<z>-9</z>
+				<w>-126</w>
+			</mapBtnSizePos>
+			<periods>
+				<period>
+					<poiName>Klitys</poiName>
+					<icon>period_notiaklitys</icon>
+					<introAudio>
+					</introAudio>
+					<introPauseTime>0</introPauseTime>
+					<sceneName>notiaKlitysMain</sceneName>
+					<sceneKamera>null</sceneKamera>
+					<loadingImage>loadKlitys</loadingImage>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>
+								</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<introTexts>
+							<introText>
+								<gr>Παρακαλώ περιμένετε
+Μεταφέρεστε στη Νότια Κλιτύ της Ακρόπολης
+κατά τη ρωμαϊκή εποχή</gr>
+								<en>Please wait
+You are being transferred to the South Slope of the Acropolis
+during the roman period</en>
+							</introText>
+						</introTexts>
+					</intro>
+					<labelTitle>
+						<gr>161 μ.Χ.</gr>
+						<en>161 AD</en>
+					</labelTitle>
+					<spotPositions>
+						<spotPos>
+							<x>18</x>
+							<y>201</y>
+							<z>23</z>
+						</spotPos>
+					</spotPositions>
+				</period>
+			</periods>
+		</sceneArea>
+		<!--			Agora-->
+		<sceneArea>
+			<name>agora</name>
+			<imageOnMap>aeridesMenu</imageOnMap>
+			<labelTitle>
+				<gr>Αρχαία Αγορά</gr>
+				<en>Ancient Agora</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>-105</x>
+				<y>66</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>86</x>
+				<y>90</y>
+				<z>-94</z>
+				<w>9</w>
+			</mapBtnSizePos>
+			<periods>
+				<period>
+					<poiName>Agora</poiName>
+					<icon>period_agora</icon>
+					<introAudio>
+					</introAudio>
+					<introPauseTime>0</introPauseTime>
+					<sceneName>agoraMain</sceneName>
+					<sceneKamera>null</sceneKamera>
+					<loadingImage>loadAgora</loadingImage>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>
+								</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<introTexts>
+							<introText>
+								<gr>Παρακαλώ περιμένετε
+Μεταφέρεστε στην Αρχαία Αγορά Αθηνών κατά την κλασική εποχή</gr>
+								<en>Please wait
+You are being transferred to the Ancient Agora of Athens
+during the classical period</en>
+							</introText>
+						</introTexts>
+					</intro>
+					<labelTitle>
+						<gr>340 π.Χ.</gr>
+						<en>340 BC</en>
+					</labelTitle>
+					<spotPositions>
+						<spotPos>
+							<x>18</x>
+							<y>201</y>
+							<z>23</z>
+						</spotPos>
+					</spotPositions>
+				</period>
+				<period>
+					<poiName>AgoraRoman</poiName>
+					<icon>period_agoraRoman</icon>
+					<introAudio>
+					</introAudio>
+					<introPauseTime>0</introPauseTime>
+					<sceneName>agoraRoman</sceneName>
+					<sceneKamera>null</sceneKamera>
+					<loadingImage>loadAgoraRoman</loadingImage>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>
+								</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<introTexts>
+							<introText>
+								<gr>Παρακαλώ περιμένετε
+Μεταφέρεστε στην Αρχαία Αγορά Αθηνών κατά την ρωμαϊκή εποχή</gr>
+								<en>Please wait
+You are being transferred to the Ancient Agora of Athens
+during the roman period</en>
+							</introText>
+						</introTexts>
+					</intro>
+					<labelTitle>
+						<gr>140 μ.Χ.</gr>
+						<en>140 AD</en>
+					</labelTitle>
+					<spotPositions>
+						<spotPos>
+							<x>18</x>
+							<y>201</y>
+							<z>23</z>
+						</spotPos>
+					</spotPositions>
+				</period>
+			</periods>
+		</sceneArea>
+		<!--			Kerameikos-->
+		<sceneArea>
+			<name>Kerameikos</name>
+			<imageOnMap>aeridesMenu</imageOnMap>
+			<labelTitle>
+				<gr>Κεραμεικός</gr>
+				<en>Kerameikos</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>-190</x>
+				<y>139</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>53</x>
+				<y>47</y>
+				<z>-183</z>
+				<w>98</w>
+			</mapBtnSizePos>
+			<periods>
+				<period>
+					<poiName>Kerameikos</poiName>
+					<icon>period_kerameikos</icon>
+					<introAudio>
+					</introAudio>
+					<introPauseTime>0</introPauseTime>
+					<sceneName>kerameikosMain</sceneName>
+					<sceneKamera>null</sceneKamera>
+					<loadingImage>loadKerameikos</loadingImage>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>
+								</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<introTexts>
+							<introText>
+								<gr>Παρακαλώ περιμένετε
+Μεταφέρεστε στον Κεραμεικό κατά την κλασική εποχή</gr>
+								<en>Please wait
+You are being transferred to Kerameikos during the classical period</en>
+							</introText>
+						</introTexts>
+					</intro>
+					<labelTitle>
+						<gr>350 π.Χ.</gr>
+						<en>350 BC</en>
+					</labelTitle>
+					<spotPositions>
+						<spotPos>
+							<x>18</x>
+							<y>201</y>
+							<z>23</z>
+						</spotPos>
+					</spotPositions>
+				</period>
+			</periods>
+		</sceneArea>
+		<!--			Akropolis-->
+		<sceneArea>
+			<name>Akropolis</name>
+			<imageOnMap>aeridesMenu</imageOnMap>
+			<labelTitle>
+				<gr>Ακρόπολη</gr>
+				<en>Acropolis</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>20</x>
+				<y>-60</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>83.6</x>
+				<y>36.9</y>
+				<z>-8</z>
+				<w>-82</w>
+			</mapBtnSizePos>
+			<periods>
+				<period>
+					<poiName>Akropolis</poiName>
+					<icon>period_akropoli</icon>
+					<introAudio>
+					</introAudio>
+					<introPauseTime>0</introPauseTime>
+					<sceneName>akropolisMain</sceneName>
+					<sceneKamera>null</sceneKamera>
+					<loadingImage>loadAkropoli</loadingImage>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>
+								</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<introTexts>
+							<introText>
+								<gr>Παρακαλώ περιμένετε
+Μεταφέρεστε στην Ακρόπολη κατά τη ρωμαϊκή εποχή</gr>
+								<en>Please wait
+You are being transferred to the Acropolis during the roman period</en>
+							</introText>
+						</introTexts>
+					</intro>
+					<labelTitle>
+						<gr>52 μ.Χ.</gr>
+						<en>52 AD</en>
+					</labelTitle>
+					<spotPositions>
+						<spotPos>
+							<x>18</x>
+							<y>201</y>
+							<z>23</z>
+						</spotPos>
+					</spotPositions>
+				</period>
+			</periods>
+		</sceneArea>
+	</sceneAreas>
+</menu>

@@ -1,0 +1,31 @@
+<settings version="1.0">
+	<general>
+		<groundSpeed>3</groundSpeed>
+		<flySpeed>10</flySpeed>
+		<flyHeight>30</flyHeight>
+		<personHeight_IfOutOfArea>77</personHeight_IfOutOfArea>
+		<maxSnapPathDist>10</maxSnapPathDist>
+		<maxSnapPathDistGround>3</maxSnapPathDistGround>
+		<bUseTerrainForHeight>0</bUseTerrainForHeight>
+		<!--- zero = false / anything else = true  -->
+		<rotSpeed>1.5</rotSpeed>
+		<objDistance>10</objDistance>
+		<playerHeight>2</playerHeight>
+		<locationStartingAccuracy>30</locationStartingAccuracy>
+		<locationPathLimit>30</locationPathLimit>
+		<locationAccuracy>7</locationAccuracy>
+		<locUpdateDistance>1</locUpdateDistance>
+		<distanceFromCenter>1000</distanceFromCenter>
+		<cameraFieldOfView>45</cameraFieldOfView>
+		<cameraHorAngleOffset>0</cameraHorAngleOffset>
+		<cameraVertAngleOffset>-60</cameraVertAngleOffset>
+		<compassTurnSpeed>1</compassTurnSpeed>
+		<camAccelRotX>25</camAccelRotX>
+		<camAccelRotY>0</camAccelRotY>
+		<accelSensitivity>0.1</accelSensitivity>
+		<joyRightSensitivity>1</joyRightSensitivity>
+	</general>
+	<messages>
+		<xronosEmfanisisGpsInfo>15</xronosEmfanisisGpsInfo>
+	</messages>
+</settings>

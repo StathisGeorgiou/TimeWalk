@@ -1,0 +1,99 @@
+<sounds version="1.0">
+	<Aerides>
+			<sound>
+				<file>door</file>
+				<pos>
+					<x>19.5</x>
+					<y>1.7</y>
+					<z>32</z>
+				</pos>
+				<volume>1</volume>
+				<distanceToHear>
+					<min>50</min>
+					<max>50</max>
+				</distanceToHear>
+				<!--				true or false-->
+				<loop>false</loop>
+				<!--				0 for false and any other number for repeating-->
+				<repeatTime>0</repeatTime>
+				<!--				0 if no trigger else distance from user to start playing-->
+				<triggerDistance>5</triggerDistance>
+			</sound>
+			<sound>
+				<file>tzami</file>
+				<pos>
+					<x>-51.45</x>
+					<y>23.17</y>
+					<z>29.65</z>
+				</pos>
+				<volume>1</volume>
+				<distanceToHear>
+					<min>25</min>
+					<max>75</max>
+				</distanceToHear>
+				<!--				true or false-->
+				<loop>true</loop>
+				<!--				0 for false and any other number for reapiting-->
+				<repeatTime>0</repeatTime>
+				<!--				0 if no trigger else distance from user to start playing-->
+				<triggerDistance>0</triggerDistance>
+			</sound>
+			<sound>
+				<file>water</file>
+				<pos>
+					<x>-9.35</x>
+					<y>2.82</y>
+					<z>-23.44</z>
+				</pos>
+				<volume>0.7</volume>
+				<distanceToHear>
+					<min>50</min>
+					<max>50</max>
+				</distanceToHear>
+				<!--				true or false-->
+				<loop>true</loop>
+				<!--				0 for false and any other number for reapiting-->
+				<repeatTime>0</repeatTime>
+				<!--				0 if no trigger else distance from user to start playing-->
+				<triggerDistance>15</triggerDistance>
+			</sound>
+			<sound>
+				<file>dog</file>
+				<pos>
+					<x>-115</x>
+					<y>1</y>
+					<z>39</z>
+				</pos>
+				<volume>1</volume>
+				<distanceToHear>
+					<min>50</min>
+					<max>50</max>
+				</distanceToHear>
+				<!--				true or false-->
+				<loop>false</loop>
+				<!--				0 for false and any other number for reapiting-->
+				<repeatTime>3</repeatTime>
+				<!--				0 if no trigger else distance from user to start playing-->
+				<triggerDistance>5</triggerDistance>
+			</sound>
+			<sound>
+				<file>chicken</file>
+				<pos>
+					<x>-64</x>
+					<y>7</y>
+					<z>40</z>
+				</pos>
+				<volume>0.4</volume>
+				<distanceToHear>
+					<min>50</min>
+					<max>50</max>
+				</distanceToHear>
+				<!--				true or false-->
+				<loop>false</loop>
+				<!--				0 for false and any other number for reapiting-->
+				<repeatTime>2</repeatTime>
+				<!--				0 if no trigger else distance from user to start playing-->
+				<triggerDistance>10</triggerDistance>
+			</sound>
+		</Aerides>
+</sounds>
